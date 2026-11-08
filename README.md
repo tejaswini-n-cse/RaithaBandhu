@@ -7,7 +7,16 @@ An AI-powered farming assistant that helps farmers get crop guidance, weather up
 ![Supabase](https://img.shields.io/badge/Backend-Supabase-green)
 ![Cloudflare](https://img.shields.io/badge/Deploy-Cloudflare-orange)
 
-![Home](screenshots/voice-assistant.png)
+
+#Demo
+
+
+
+
+https://github.com/user-attachments/assets/5336ba6c-dcde-4c22-827d-a0c5e5ae5399
+
+
+![Home](screenshots/homepage.png)
 
 ## Table of Contents
 
