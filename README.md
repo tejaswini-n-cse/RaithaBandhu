@@ -209,13 +209,7 @@ RaithaBandhu/
 └── README.md
 ```
 
-## Team
 
-Built by **Tejaswini N** ([@tejaswini-n-cse](https://github.com/tejaswini-n-cse)) and (teammate names).
-
-**My contributions:** (list the parts you built, for example the voice module and the Supabase integration)
-
-Original repository: (link, if this started from a shared repo)
 
 ## Limitations and Future Work
 
